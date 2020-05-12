@@ -1,0 +1,52 @@
+{
+    "employees": [
+        {
+            "id": 1,
+            "employee_name": "Tommy",
+            "departmentId": 3,
+            "computerId": 1
+        },
+        {
+            "id": 2,
+            "employee_name": "Sarah",
+            "departmentId": 1,
+            "computerId": 1
+        },
+        {
+            "id": 3,
+            "employee_name": "Gertrude",
+            "departmentId": 2,
+            "computerId": 2
+        },
+        {
+            "id": 4,
+            "employee_name": "Paul",
+            "departmentId": 2,
+            "computerId": 2
+        }
+    ],
+    "departments": [
+        {
+            "id": 1,
+            "department_name": "Accounting"
+        },
+        {
+            "id": 2,
+            "department_name": "Customer Service"
+        },
+        {
+            "id": 3,
+            "department_name": "Human Resources"
+        }
+    ],
+    "computers": [
+        {
+            "id": 1,
+            "computer_type": "Macbook Pro"
+        },
+        {
+            "id": 2,
+            "computer_type": "Chromebook"
+        }
+    ]
+}
